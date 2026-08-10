@@ -174483,34 +174483,8 @@
         },
         "commodity": {
           "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q689",
-          "observed_name": "Yttrium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
           "normalized_uri": "https://minmod.isi.edu/resource/Q657",
           "observed_name": "Silica",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q698",
-          "observed_name": "Thulium",
           "source": "UMN Matching System-ProcMinev2"
         }
       },
@@ -174548,19 +174522,6 @@
         },
         "commodity": {
           "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q694",
-          "observed_name": "Terbium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
           "normalized_uri": "https://minmod.isi.edu/resource/Q506",
           "observed_name": "Aluminum",
           "source": "UMN Matching System-ProcMinev2"
@@ -174574,60 +174535,8 @@
         },
         "commodity": {
           "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q690",
-          "observed_name": "Neodymium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
           "normalized_uri": "https://minmod.isi.edu/resource/Q614",
           "observed_name": "Titanium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q693",
-          "observed_name": "Gadolinium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q688",
-          "observed_name": "Praseodymium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q695",
-          "observed_name": "Dysprosium",
           "source": "UMN Matching System-ProcMinev2"
         }
       },
@@ -174712,32 +174621,6 @@
         }
       },
       {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q700",
-          "observed_name": "Lutetium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q699",
-          "observed_name": "Ytterbium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
         "ore": {
           "value": 18800000.0,
           "unit": {
@@ -174784,35 +174667,9 @@
           }
         },
         "commodity": {
-          "confidence": 0.9439373519432386,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q686",
-          "observed_name": "FLanthanum",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
           "confidence": 0.9999,
           "normalized_uri": "https://minmod.isi.edu/resource/Q561",
           "observed_name": "Iron",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q692",
-          "observed_name": "Europium",
           "source": "UMN Matching System-ProcMinev2"
         }
       },
@@ -174854,58 +174711,6 @@
             "observed_name": "Wt-Pct",
             "source": "UMN Matching System-ProcMinev2"
           }
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q697",
-          "observed_name": "Erbium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q696",
-          "observed_name": "Holmium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q691",
-          "observed_name": "Samarium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q687",
-          "observed_name": "Cerium",
-          "source": "UMN Matching System-ProcMinev2"
         }
       }
     ],
@@ -183645,19 +183450,6 @@
         },
         "commodity": {
           "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q700",
-          "observed_name": "Lutetium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
           "normalized_uri": "https://minmod.isi.edu/resource/Q561",
           "observed_name": "Iron",
           "source": "UMN Matching System-ProcMinev2"
@@ -183671,125 +183463,8 @@
         },
         "commodity": {
           "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q689",
-          "observed_name": "Yttrium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q687",
-          "observed_name": "Cerium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q688",
-          "observed_name": "Praseodymium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q695",
-          "observed_name": "Dysprosium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
           "normalized_uri": "https://minmod.isi.edu/resource/Q506",
           "observed_name": "Aluminum",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q697",
-          "observed_name": "Erbium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q690",
-          "observed_name": "Neodymium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q696",
-          "observed_name": "Holmium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q698",
-          "observed_name": "Thulium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q692",
-          "observed_name": "Europium",
           "source": "UMN Matching System-ProcMinev2"
         }
       },
@@ -183814,19 +183489,6 @@
         },
         "commodity": {
           "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q693",
-          "observed_name": "Gadolinium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
           "normalized_uri": "https://minmod.isi.edu/resource/Q653",
           "observed_name": "Phosphorus-Phosphates",
           "source": "UMN Matching System-ProcMinev2"
@@ -183840,60 +183502,8 @@
         },
         "commodity": {
           "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q694",
-          "observed_name": "Terbium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q699",
-          "observed_name": "Ytterbium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
           "normalized_uri": "https://minmod.isi.edu/resource/Q621",
           "observed_name": "Calcium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9439373519432386,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q686",
-          "observed_name": "FLanthanum",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q691",
-          "observed_name": "Samarium",
           "source": "UMN Matching System-ProcMinev2"
         }
       }
@@ -193493,19 +193103,6 @@
           }
         },
         "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q689",
-          "observed_name": "Yttrium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
           "confidence": 0.5555555555555556,
           "normalized_uri": "https://minmod.isi.edu/resource/Q659",
           "observed_name": "Water",
@@ -193519,191 +193116,9 @@
           }
         },
         "commodity": {
-          "confidence": 0.9439373519432386,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q686",
-          "observed_name": "FLanthanum",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q694",
-          "observed_name": "Terbium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
           "confidence": 0.9999,
           "normalized_uri": "https://minmod.isi.edu/resource/Q561",
           "observed_name": "Iron",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q693",
-          "observed_name": "Gadolinium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q687",
-          "observed_name": "Cerium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q698",
-          "observed_name": "Thulium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q691",
-          "observed_name": "Samarium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q697",
-          "observed_name": "Erbium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q690",
-          "observed_name": "Neodymium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q692",
-          "observed_name": "Europium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q699",
-          "observed_name": "Ytterbium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q688",
-          "observed_name": "Praseodymium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q700",
-          "observed_name": "Lutetium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q696",
-          "observed_name": "Holmium",
-          "source": "UMN Matching System-ProcMinev2"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "confidence": 0.9999,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q695",
-          "observed_name": "Dysprosium",
           "source": "UMN Matching System-ProcMinev2"
         }
       }
