@@ -1,0 +1,16 @@
+source_id,observed_name,context,action,normalized_uri,note
+https://mrdata.usgs.gov/mrds,Construction,,drop,,"All 46,221 records also have Sand And Gravel (Q656). Matched to Strontium at 0.5453."
+https://mrdata.usgs.gov/mrds,Industrial,,drop,,A subtype word. All 11 records also have Sand and Gravel. Matched to Indium at 0.4998.
+https://mrdata.usgs.gov/mrds,Soda Ash,,drop,,Sodium carbonate. All 8 records also have Sodium or Sodium > Salt. Matched to Ash at 0.5833.
+https://mrdata.usgs.gov/mrds,Tripoli,,drop,,Microcrystalline silica. The record also has Silica. Matched to Lithium at 0.5186.
+https://mrdata.usgs.gov/mrds,Metal,,remap,https://minmod.isi.edu/resource/Q674,"MRDS writes Titanium, Metal (code TI_M) and the comma split leaves Metal; Q674 Titanium > Metal is that code's entity. Matched to Nonmetal at 0.7599."
+https://mrdata.usgs.gov/mrds,Volcanic Materials,,remap,https://minmod.isi.edu/resource/Q679,Q679 Volcanic Materials is missing from ProcMine's commodity table. Matched to Clay > Bloating Material at 0.595.
+https://mrdata.usgs.gov/mrds,Water,,remap,https://minmod.isi.edu/resource/Q680,"MRDS writes Water, Free (code H2O); Q680 Water is that code's entity and is missing from ProcMine's commodity table. Matched to Slate at 0.5556."
+https://mrdata.usgs.gov/mrds,Gilsonite,,remap,https://minmod.isi.edu/resource/Q649,commodity.csv has Q649 Petroleum (Oil) > Gilsonite. Matched to Wollastonite at 0.5856.
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,Construc,,drop,,Truncated Construction. All 980 records also have Sand And Gravel (Q656). Matched to Cobalt at 0.5368.
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,Halloysite,,drop,,A clay mineral. The record also has Clay. Matched to Alunite at 0.5488.
+https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey,Metal,,remap,https://minmod.isi.edu/resource/Q674,"MRDS writes Titanium, Metal (code TI_M) and the comma split leaves Metal; Q674 Titanium > Metal is that code's entity. Matched to Nonmetal at 0.7599."
+http://www.oregongeology.org,SC,stone | crushed | SC,remap,https://minmod.isi.edu/resource/Q664,"Oregon code for stone, crushed, as the record itself says. Matched to Scandium by its code."
+http://www.oregongeology.org,CS,stone | crushed | CS,remap,https://minmod.isi.edu/resource/Q664,"Oregon code next to stone, crushed in the record itself. Matched to Cesium by its code."
+http://www.oregongeology.org,SD,stone | dimension | SD,remap,https://minmod.isi.edu/resource/Q665,"Oregon code for stone, dimension, as the record itself says. Matched to Sand by its code."
+http://www.oregongeology.org,S,sand and gravel | S | G,drop,,"Sand, next to G (gravel). The record already has Sand and Gravel (Q656). Matched to Sulfur by its code."
