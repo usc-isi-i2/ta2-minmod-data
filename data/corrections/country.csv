@@ -1,0 +1,2 @@
+source_id,normalized_uri,note
+https://mrdata.usgs.gov/asbestos,https://minmod.isi.edu/resource/Q1235,"US-only dataset. All 913 records name a US postal code as their state and all points are in the US, but none carries a country, so the state repair skips them: 416 keep a state matched in another country (CA to Canelones, Uruguay; ME to Mashonaland East, Zimbabwe)."
