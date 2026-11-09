@@ -4,6 +4,13 @@
     "record_id": "10",
     "name": "Upper Applegate 2 talc occurrence",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -109,6 +116,13 @@
     "record_id": "31",
     "name": "Deep Creek",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -154,6 +168,13 @@
     "record_id": "58",
     "name": "unnamed occurrence",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -185,6 +206,13 @@
     "record_id": "66",
     "name": "unnamed occurrence",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -242,6 +270,13 @@
     "record_id": "68",
     "name": "Garnet Hill occurrence",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -299,6 +334,13 @@
     "record_id": "89",
     "name": "Coalinga (Johns-Manville) mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -416,6 +458,13 @@
     "record_id": "117",
     "name": "McIlroy property",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -461,6 +510,13 @@
     "record_id": "243",
     "name": "South Kelsey Creek rock pit",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -506,6 +562,13 @@
     "record_id": "386",
     "name": "Ray-Kelvin silver-lead mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -551,6 +614,13 @@
     "record_id": "434",
     "name": "unnamed prospect",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -656,6 +726,13 @@
     "record_id": "487",
     "name": "Mineral Hill mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -687,6 +764,13 @@
     "record_id": "562",
     "name": "Soapstone Branch prospect",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -816,6 +900,13 @@
     "record_id": "650",
     "name": "Lenni occurrence",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -933,6 +1024,13 @@
     "record_id": "654",
     "name": "Smedley's asbestos mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -1014,6 +1112,13 @@
     "record_id": "785",
     "name": "Washington iron mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -1107,6 +1212,13 @@
     "record_id": "1095",
     "name": "Victorio mining district",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",

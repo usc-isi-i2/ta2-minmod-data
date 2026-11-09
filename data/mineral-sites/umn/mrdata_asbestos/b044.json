@@ -4,6 +4,13 @@
     "record_id": "13",
     "name": "Ward chromite mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -85,6 +92,13 @@
     "record_id": "59",
     "name": "unnamed occurrence",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -116,6 +130,13 @@
     "record_id": "196",
     "name": "Mountain Pass rare earth elements deposit",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -161,6 +182,13 @@
     "record_id": "305",
     "name": "American Fiber Co. properties (Rock House Group)--North deposits",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -206,6 +234,13 @@
     "record_id": "443",
     "name": "Calhoun Mining Company property",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -275,6 +310,13 @@
     "record_id": "489",
     "name": "Reed chrome mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -476,6 +518,13 @@
     "record_id": "509",
     "name": "Little Tea Pond area serpentine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -665,6 +714,13 @@
     "record_id": "795",
     "name": "T & P Number 1 quarry",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -758,6 +814,13 @@
     "record_id": "1002",
     "name": "Doe Peak 1 talc occurrence",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",

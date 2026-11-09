@@ -4,6 +4,13 @@
     "record_id": "55",
     "name": "unnamed occurrence",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -35,6 +42,13 @@
     "record_id": "230",
     "name": "unnamed occurrence",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -80,6 +94,13 @@
     "record_id": "285",
     "name": "Kingbird drift mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -125,6 +146,13 @@
     "record_id": "341",
     "name": "Wonder group",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -194,6 +222,13 @@
     "record_id": "464",
     "name": "A.A. Darnell property",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -323,6 +358,13 @@
     "record_id": "478",
     "name": "Muddy Branch talc prospect",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -368,6 +410,13 @@
     "record_id": "734",
     "name": "Camp Albion mining district",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -497,6 +546,13 @@
     "record_id": "794",
     "name": "Homestake gold mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -566,6 +622,13 @@
     "record_id": "1069",
     "name": "Addenda mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",

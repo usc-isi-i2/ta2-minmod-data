@@ -4,6 +4,13 @@
     "record_id": "44",
     "name": "Florence Rae prospect",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -35,6 +42,13 @@
     "record_id": "48",
     "name": "Laurier",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -140,6 +154,13 @@
     "record_id": "133",
     "name": "asbestos prospect",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -171,6 +192,13 @@
     "record_id": "191",
     "name": "Occurrences in canyon of Clear Creek",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -264,6 +292,13 @@
     "record_id": "333",
     "name": "Snake Hill deposit (Bluff claims)",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -321,6 +356,13 @@
     "record_id": "537",
     "name": "unnamed prospect",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -352,6 +394,13 @@
     "record_id": "614",
     "name": "Staten Island occurrence",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -433,6 +482,13 @@
     "record_id": "691",
     "name": "unnamed prospects",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -490,6 +546,13 @@
     "record_id": "700",
     "name": "Empire vein copper prospects",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -619,6 +682,13 @@
     "record_id": "726",
     "name": "unnamed prospect",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -772,6 +842,13 @@
     "record_id": "736",
     "name": "Salt Creek vermiculite deposits",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -889,6 +966,13 @@
     "record_id": "743",
     "name": "Tamarack-Custer mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -946,6 +1030,13 @@
     "record_id": "1042",
     "name": "Omega mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",

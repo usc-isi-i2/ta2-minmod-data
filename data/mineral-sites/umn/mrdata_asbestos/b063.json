@@ -4,6 +4,13 @@
     "record_id": "83",
     "name": "Fairchild Park occurrence",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -157,6 +164,13 @@
     "record_id": "521",
     "name": "Peterman mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -214,6 +228,13 @@
     "record_id": "543",
     "name": "Holden mine",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -259,6 +280,13 @@
     "record_id": "551",
     "name": "Balsam Gap olivine deposit",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -388,6 +416,13 @@
     "record_id": "599",
     "name": "Debow's marble quarry",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -433,6 +468,13 @@
     "record_id": "645",
     "name": "Teeter quarry",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
@@ -478,6 +520,13 @@
     "record_id": "1092",
     "name": "Gold Hill stock",
     "location_info": {
+      "country": [
+        {
+          "source": "USGS asbestos dataset: US only",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
